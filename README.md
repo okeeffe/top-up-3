@@ -4,7 +4,7 @@ A Selenium Python script to top up a pre-pay phone on Three Ireland.
 
 Currently only works for cards _without_ Verified by Visa or the MasterCard equivalent.
 
-Note that you need the [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) installed. For macOS users the ~best~ _easiest_ way is via homebrew - `brew install chromedriver`.
+Note that you need the [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) installed. For macOS users the ~~best~~ _easiest_ way is via homebrew - `brew install chromedriver`.
 
 ## To Run
 
