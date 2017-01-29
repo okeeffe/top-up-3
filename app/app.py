@@ -109,4 +109,4 @@ if __name__ == '__main__':
     ts_and_cs_box = driver.find_element_by_name('AcceptTermsAndCond')
     ts_and_cs_box.click()
     submit_btn = driver.find_element_by_id('submitButton')
-    # submit_btn.click()
+    submit_btn.click()
